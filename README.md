@@ -1,6 +1,7 @@
-![image](https://github.com/jh2277/BackRoom-Unity/assets/96563287/c7e9a1a9-fb42-4ae5-919c-8c61dca09797)
-![image](https://github.com/jh2277/BackRoom-Unity/assets/96563287/deea6d5d-b1f0-4ea5-9bb1-5e6875a21ceb)
-![image](https://github.com/jh2277/BackRoom-Unity/assets/96563287/213d17f3-910f-46cb-9869-86183f4d5e8c)
+![image](https://github.com/jh2277/BackRoom-Unity/assets/96563287/09d04e47-62ce-4c92-ae8b-24cc9abaf10d)
+![image](https://github.com/jh2277/BackRoom-Unity/assets/96563287/d767f8c4-5cf3-443a-bae2-76962748f4be)
+![image](https://github.com/jh2277/BackRoom-Unity/assets/96563287/a14545d2-4e30-46ef-824e-00f43a5b8a1b)
+
 
 # 암기게임
 
