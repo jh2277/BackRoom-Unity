@@ -3,7 +3,7 @@
 ![image](https://github.com/jh2277/BackRoom-Unity/assets/96563287/a14545d2-4e30-46ef-824e-00f43a5b8a1b)
 
 
-# 암기게임
+# BackRoom with Memorization
 
 이 게임은 색깔을 암기하여 아이템을 모으는 단순한 게임입니다. 게임 시작 시 3초 동안 "색깔 목록"이 표시되며, 이 순서대로 아이템을 모으면 게임이 종료됩니다. 적이 플레이어를 쫓아올 수 있으므로 아이템을 모으는 동안 조심해야 합니다.
 
